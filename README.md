@@ -16,7 +16,7 @@ Cada observación en el dataset contiene información del comportamiento mensual
 - messages — número de mensajes de texto,
 - mb_used — Tráfico de Internet utilizado en MB,
 - is_ultra — plan para el mes actual (Ultra - 1, Smart - 0).
-# Habilidades técnicas
+# Habilidades y herramientas técnicas
 - Python
 - Pandas
 - Matplotlib
